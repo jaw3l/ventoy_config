@@ -13,110 +13,136 @@
     },
 	
     "menu_class": [
+
         {
             "key": "arch",
             "class": "arch"
         },
+
         {
             "key": "arcolinux",
             "class": "arcolinux"
         },
+
         {
             "key": "boot-repair",
             "class": "linux"
         },
+
         {
             "key": "chakra",
             "class": "chakra"
         },
+
         {
             "key": "debian",
             "class": "debian"
         },
+
         {
             "key": "deepin",
             "class": "deepin"
         },
+
         {
             "key": "devuan",
             "class": "devuan"
         },
+
         {
             "key": "elementary",
             "class": "elementary",
             "dir": "/ISO/Elementary"
         },
+
         {
             "key": "endeavouros",
             "class": "endeavouros"
         },
+
         {
             "key": "Fedora",
             "class": "fedora"
         },
+
         {
             "key": "HBCD",
             "class": "windows"
         },
+
         {
             "key": "kali",
             "class": "kali",
             "dir": "/ISO/Kali"
         },
+
         {
             "key": "KaOS",
             "class": "kaos"
         },
+
         {
             "key": "lubuntu",
             "class": "lubuntu"
         },
+
         {
             "key": "linuxmint",
             "class": "linuxmint"
         },
+
         {
             "key": "Mageia",
             "class": "mageia"
         },
+
         {
             "key": "manjaro",
             "class": "manjaro"
         },
+
         {
             "key": "memtest",
             "class": "memtest"
         },
+
         {
             "key": "pop-os",
             "class": "pop-os"
         },
+
         {
             "key": "siduction",
             "class": "siduction"
         },
+
         {
             "key": "Solus",
             "class": "solus"
         },
+
         {
             "key": "steamos",
             "class": "steamos"
         },
+
         {
             "key": "ubuntu",
             "class": "ubuntu",
             "dir": "/ISO/Ubuntu"
         },
+
         {
             "key": "void",
             "class": "void"
         },
+
         {
             "key": "Windows",
             "class": "windows",
             "dir": "/ISO/Windows"
         },
+
         {
             "key": "xubuntu",
             "class": "xubuntu"
@@ -132,6 +158,11 @@
         {
             "image": "/ISO/Windows/Windows-20H1.iso",
             "alias": "Windows 10 20H1"
+        },
+
+        {
+            "image": "/ISO/Windows/Windows-19H2.iso",
+            "alias": "Windows 10 19H2"
         },
 
         {
